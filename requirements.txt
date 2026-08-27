@@ -1,11 +1,10 @@
 gradio
 transformers
-torch --extra-index-url https://download.pytorch.org/whl/cpu
-spacy==3.7.4
+torch
+spacy
 pysentimiento
 scikit-learn
 matplotlib
 pandas
 numpy
 reportlab
-https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
