@@ -1,7 +1,7 @@
 gradio
 transformers
-torch
-spacy
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+spacy==3.7.4
 pysentimiento
 scikit-learn
 matplotlib
